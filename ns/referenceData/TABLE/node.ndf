@@ -279,8 +279,8 @@
   <value name="is_public">false</value>
   <record name="$REFERENCE_DATA$" javaclass="com.wm.util.Values">
     <value name="name">number</value>
-    <value name="packageName">HasvProject</value>
-    <value name="descriptorName">project.hasv.referencedata:number</value>
+    <value name="packageName">TPP04</value>
+    <value name="descriptorName">referenceData:TABLE</value>
     <byte name="sourceBytes">
 bnVtYmVyCjEKMgozCjQKNQo2CjcKOAo5CjEwCjExCjEyCjEzCjE0CjE1    </byte>
     <null name="description"/>
